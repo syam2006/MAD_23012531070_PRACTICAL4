@@ -13,7 +13,7 @@ Persistent Alarm Scheduling: The app requests the necessary SCHEDULE_EXACT_ALARM
 UI with Material Design: The user interface is built using Material Components like MaterialCardView and MaterialButton.
 App Screenshots
 
-![image alt]()
+![image alt](https://github.com/syam2006/MAD_23012531070_PRACTICAL4/blob/1b669a01b458e7b2b59c8c87d16eff68997cfd43/Screenshot%202025-11-26%20204527.png)
 
 Core Concepts Demonstrated
 This project provides a practical study of several fundamental Android concepts:
